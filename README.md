@@ -4,6 +4,8 @@ haCCA, a workflow utilizing high Correlated feature pairs combined with a modifi
 
 [![PyPI version](https://badge.fury.io/py/hacca.svg)](https://badge.fury.io/py/haCCA)
 
+[![DOI](https://zenodo.org/badge/818880145.svg)](https://doi.org/10.5281/zenodo.17785969)
+
 ![haCCA](./asset/hacca_workflow.png)
 
 ## Installation
